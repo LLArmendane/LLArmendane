@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LLArmendane
 - 👀 I’m interested in technology and in the world of virtual transformations.
-- 🌱 I’m currently learning Json.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on the visual part of things.
 - 📫 How to reach me: +55(15)99666-2498 - laurarmendani@gmail.com
 
